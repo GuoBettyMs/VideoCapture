@@ -1,0 +1,6 @@
+Xcode 下载mp4视频
+1.运行程序后，选择device and simulators
+2.选中所运行的程序,download container…
+3.设置存放路径，找到新建文件，右键选择“显示包内容”
+4.AppData -> Documents 找到录制的视频
+
